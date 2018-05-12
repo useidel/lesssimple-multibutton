@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.androidthings.weatherstation2;
+package com.example.androidthings.multibutton;
 
 import android.os.Build;
 
